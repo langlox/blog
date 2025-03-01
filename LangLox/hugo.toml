@@ -1,0 +1,5 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+
+title = 'LangLox - The Ultimate Korean Learning Blog'
+theme = 'hugo-theme-tokiwa'

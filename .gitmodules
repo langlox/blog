@@ -1,0 +1,4 @@
+[submodule "LangLox/public"]
+	path = LangLox/public
+	url = https://github.com/langlox/langlox.com.git
+	branch = main
