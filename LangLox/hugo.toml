@@ -1,4 +1,4 @@
-baseURL = 'https://langlox.github.io/blog/'
+baseURL = 'http://langlox.com/'
 languageCode = 'en-us'
 
 title = 'LangLox - The Ultimate Korean Learning Blog'
