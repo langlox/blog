@@ -1,6 +1,6 @@
 +++
 date = '2025-03-01T14:31:34+11:00'
-title = 'Posts are Good'
+title = 'Posts are Great'
 +++
 
 
