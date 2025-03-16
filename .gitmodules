@@ -2,3 +2,7 @@
 	path = LangLox/public
 	url = https://github.com/langlox/langlox.com.git
 	branch = main
+[submodule "LangLox/langlox.com"]
+	path = LangLox/langlox.com
+	url = https://github.com/langlox/langlox.com.git
+	branch = main
